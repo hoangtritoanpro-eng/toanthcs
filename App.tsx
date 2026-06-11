@@ -143,7 +143,7 @@ function App() {
             </div>
             <div>
               <h1 className="text-xl font-extrabold text-teal-800 leading-tight">TOÁN THCS</h1>
-              <p className="text-xs text-slate-500 font-semibold">Giáo viên: Nguyễn Hữu Phúc</p>
+              <p className="text-xs text-slate-500 font-semibold">Giáo viên: Hoàng Trí Toàn</p>
             </div>
           </div>
           
@@ -173,7 +173,7 @@ function App() {
           <div className="space-y-12 animate-fade-in-up">
             <div className="text-center space-y-4 mt-8">
               <h2 className="text-4xl md:text-5xl font-extrabold text-teal-900">
-                Học Toán thật vui <br/> cùng <span className="text-teal-600">Thầy Phúc</span>
+                Học Toán thật vui <br/> cùng <span className="text-teal-600">Thầy Toàn</span>
               </h2>
               <p className="text-lg text-slate-600 max-w-2xl mx-auto">
                 Chọn khối lớp của em để bắt đầu hành trình khám phá các con số, hình học và đại số thú vị!
@@ -249,7 +249,7 @@ function App() {
                     <GraduationCap className="w-8 h-8 text-slate-400" />
                   </div>
                   <h3 className="text-lg font-bold text-slate-600">Nội dung đang được cập nhật</h3>
-                  <p className="text-slate-400">Thầy Phúc đang soạn bài, các em quay lại sau nhé!</p>
+                  <p className="text-slate-400">Thầy Toàn đang soạn bài, các em quay lại sau nhé!</p>
                 </div>
               )}
             </div>
@@ -263,7 +263,7 @@ function App() {
         <div className="max-w-6xl mx-auto px-4 flex flex-col md:flex-row justify-between items-center gap-4">
           <div className="text-center md:text-left">
             <p className="font-bold text-white mb-1">Ứng dụng Toán học THCS</p>
-            <p className="text-sm">Phát triển bởi thầy Nguyễn Hữu Phúc © {new Date().getFullYear()}</p>
+            <p className="text-sm">Phát triển bởi thầy Hoàng Trí Toàn © {new Date().getFullYear()}</p>
           </div>
           <div className="flex gap-4">
              <Users className="w-5 h-5 hover:text-teal-400 cursor-pointer" />
